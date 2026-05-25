@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 [Network Defense](https://www.credly.com/badges/0fcd3269-fbd6-4ee4-a087-e262d3910964/public_url)
 
 [Endpoint Security](https://www.credly.com/badges/d51b77f1-1a6e-4786-9a9b-a910d85f5005/public_url)
+
+[Complete Web Penetration Testing](https://courses.redteamleaders.com/completion/ee775fa3463b38be)
